@@ -6,7 +6,7 @@ SECRET_KEY = ')+eg0+at)19ijw1a*@7i76j9#@u4(%%u)a9#89--l0quhfcf+u'
 
 DEBUG = False
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['panaram.ranty.ru', '127.0.0.1']
 
 INSTALLED_APPS = [
     'django.contrib.admin',
